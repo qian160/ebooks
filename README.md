@@ -8,3 +8,5 @@ some good websites:
 - [codeforces](https://codeforces.com/)
 - [drawio](https://app.diagrams.net/)
 - [coursera](https://www.coursera.org/)
+- [fpga4fun](https://www.fpga4fun.com/)
+- [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
