@@ -11,3 +11,4 @@ some good websites:
 - [fpga4fun](https://www.fpga4fun.com/)
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 - [wolframalpha](https://www.wolframalpha.com/)
+- [cpp reference](https://cplusplus.com/reference/)
