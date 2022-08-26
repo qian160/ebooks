@@ -12,3 +12,4 @@ some good websites:
 - [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 - [wolframalpha](https://www.wolframalpha.com/)
 - [cpp reference](https://cplusplus.com/reference/)
+- [computer history museum](https://www.softwarepreservation.org/)
