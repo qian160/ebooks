@@ -13,3 +13,4 @@ some good websites:
 - [wolframalpha](https://www.wolframalpha.com/)
 - [cpp reference](https://cplusplus.com/reference/)
 - [computer history museum](https://www.softwarepreservation.org/)
+- [regex visualization](https://regexr.com/)
