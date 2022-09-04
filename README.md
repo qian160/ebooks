@@ -15,3 +15,4 @@ some good websites:
 - [computer history museum](https://www.softwarepreservation.org/)
 - [regex visualization](https://regexr.com/)
 - [learn git](https://onlywei.github.io/explain-git-with-d3/)
+- [ysyx](https://ysyx.oscc.cc/docs/)
