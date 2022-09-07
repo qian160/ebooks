@@ -16,4 +16,5 @@ some good websites:
 - [regex visualization](https://regexr.com/)
 - [learn git](https://onlywei.github.io/explain-git-with-d3/)
 - [ysyx](https://ysyx.oscc.cc/docs/)
-- [riscv-quickref](https://msyksphinz-self.github.io/riscv-isadoc/html/rv64i.html)
+- [riscv-simple doc](https://msyksphinz-self.github.io/riscv-isadoc/html/rv64i.html)
+- [bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
