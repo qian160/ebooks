@@ -1,6 +1,6 @@
 # books
     Many thanks to z library and google
-some good websites:
+some interesting websites:
 - [UCB EECS](https://inst.eecs.berkeley.edu//classes-eecs.html)
 - [MIT OCW](https://ocw.mit.edu/)
 - [z library](https://sg1lib.org)
