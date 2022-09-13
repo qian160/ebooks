@@ -18,3 +18,4 @@ some interesting websites:
 - [ysyx](https://ysyx.oscc.cc/docs/)
 - [riscv quick doc](https://msyksphinz-self.github.io/riscv-isadoc/html/rv64i.html)
 - [bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+-[](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
