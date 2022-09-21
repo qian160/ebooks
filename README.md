@@ -19,4 +19,5 @@ some interesting websites:
 - [riscv quick doc](https://msyksphinz-self.github.io/riscv-isadoc/html/rv64i.html)
 - [bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-- [lazyfoo](https://lazyfoo.net)     [Chinese ver](https://tjumyk.github.io/sdl-tutorial-cn/contents.html)
+- [lazyfoo](https://lazyfoo.net)        [(Chinese ver)](https://tjumyk.github.io/sdl-tutorial-cn/contents.html)
+- [freevga](https://www.scs.stanford.edu/10wi-cs140/pintos/specs/freevga/home.htm)
