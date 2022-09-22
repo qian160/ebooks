@@ -21,3 +21,4 @@ some interesting websites:
 - [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 - [lazyfoo](https://lazyfoo.net)        [(Chinese ver)](https://tjumyk.github.io/sdl-tutorial-cn/contents.html)
 - [freevga](https://www.scs.stanford.edu/10wi-cs140/pintos/specs/freevga/home.htm)
+- [nedev](https://www.nesdev.org/wiki/Nesdev_Wiki)
