@@ -23,3 +23,4 @@ some interesting websites:
 - [freevga](https://www.scs.stanford.edu/10wi-cs140/pintos/specs/freevga/home.htm)
 - [nedev](https://www.nesdev.org/wiki/Nesdev_Wiki)
 - [sbt-docs](https://www.scala-sbt.org/1.x/docs/zh-cn/index.html)
+- [chisel-docs](https://www.chisel-lang.org/chisel3/docs/introduction.html)
