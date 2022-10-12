@@ -25,3 +25,4 @@ some interesting websites:
 - [sbt-docs](https://www.scala-sbt.org/1.x/docs/zh-cn/index.html)
 - [chisel-docs](https://www.chisel-lang.org/chisel3/docs/introduction.html)
 - [rust](https://www.rust-lang.org/zh-CN/)      [chinese ver](https://kaisery.github.io/trpl-zh-cn/)
+- [](https://www.tenouk.com/ModuleW.html)
