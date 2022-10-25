@@ -28,3 +28,4 @@ some interesting websites:
 - [COMPILER, ASSEMBLER, LINKER AND LOADER: A BRIEF STORY](https://www.tenouk.com/ModuleW.html)
 - [redpitaya-knowledge-base](https://redpitaya-knowledge-base.readthedocs.io/en/latest/learn_fpga/fpga_learn.html)
 - [SDL API](https://documentation.help/SDL/)
+- [SDL reference](https://www.libsdl.org/release/SDL-1.2.15/docs/html/reference.html)
