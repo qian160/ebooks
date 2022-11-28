@@ -30,3 +30,4 @@ some interesting websites:
 - [SDL API](https://documentation.help/SDL/)
 - [SDL reference](https://www.libsdl.org/release/SDL-1.2.15/docs/html/reference.html)
 - [libsdl](https://wiki.libsdl.org/CategoryAPI)
+- [rust course](https://course.rs/print.html)
