@@ -3,7 +3,7 @@
 some interesting websites:
 - [UCB EECS](https://inst.eecs.berkeley.edu//classes-eecs.html)
 - [MIT OCW](https://ocw.mit.edu/)
-- [z library](https://sg1lib.org)
+- [libgen](libgen.ee)
 - [Stack Overflow](https://stackoverflow.com/)
 - [codeforces](https://codeforces.com/)
 - [drawio](https://app.diagrams.net/)
@@ -31,3 +31,4 @@ some interesting websites:
 - [libsdl](https://wiki.libsdl.org/CategoryAPI)
 - [rust course](https://course.rs/print.html)
 - [rust tour](https://tourofrust.com/05_zh-cn.html)
+- [rust play](https://play.rust-lang.org/)
