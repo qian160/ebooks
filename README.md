@@ -28,3 +28,4 @@ some interesting websites:
 - [rust course](https://course.rs/print.html)
 - [rust tour](https://tourofrust.com/05_zh-cn.html)
 - [rust play](https://play.rust-lang.org/)
+- [annas-archive](https://annas-archive.org/)
